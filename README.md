@@ -1,2 +1,3 @@
-# Personal-Website
-Website about myself
+# Personal Website
+
+This website is about me.
